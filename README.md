@@ -1,4 +1,4 @@
-# 🌌 Procedural Space Survival
+# 🌌 Procedural Space Survival 
 
 ![Version](https://img.shields.io/badge/version-1.0.0--alpha-blue)
 ![Unity](https://img.shields.io/badge/Unity-2022.3+-black?logo=unity)
